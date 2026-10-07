@@ -19,3 +19,9 @@
 * <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="18" height="18"> **ОСь: DualBoot с `AtlasOS 11` и `CachyOS`**
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirieshka228-govno/kirieshka228-govno/output/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirieshka228-govno/kirieshka228-govno/output/github-contribution-grid-snake-light.gif">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kirieshka228-govno/kirieshka228-govno/output/github-contribution-grid-snake-light.gif">
+</picture>
