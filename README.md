@@ -1,4 +1,4 @@
-# Создатель говна на <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="32" height="32">
+# Создатель говна на <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="32" height="32"> и <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" width="32" height="32">
 
 
 ## Сосылки
@@ -15,8 +15,8 @@
 * <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Процик: Intel Pentium Gold 7505 2.00GHz**
 * <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Видюха: Встроенная (Intel UHD Graphics)**
 * <img src="https://img.icons8.ru/color/48/memory-slot.png" width="18" height="18"> **Оперативка: 20 ГБ DDR4 (4 ГБ впаянной и 16 ГБ съёмной)**
-* <img src="https://img.icons8.ru/external-vectorslab-flat-vectorslab/53/external-Floppy-Disk-multimedia-vectorslab-flat-vectorslab.png" width="18" height="18"> **Диски: NVME SSD Ardor Gaming 512 GB (`AtlasOS 11`) и NVME SSD Foresee 128 GB (`CachyOS`)**
-* <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="18" height="18"> **ОСь: DualBoot с `AtlasOS 11` и `CachyOS`**
+* <img src="https://img.icons8.ru/external-vectorslab-flat-vectorslab/53/external-Floppy-Disk-multimedia-vectorslab-flat-vectorslab.png" width="18" height="18"> **Диски: NVME SSD Ardor Gaming 512 GB (`CachyOS`)**
+* <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cachyos-linux.svg" width=18 height=18> **ОСь: CachyOS**
 
 ---
 
