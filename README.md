@@ -12,7 +12,7 @@
 ## О ноуте
 
 * <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/asus.svg" width="18" height="18"> **Модель: Asus VivoBook X415EA R465EA**
-* <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Процик: Intel Pentium Gold 7505 2.00GHz**
+* <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Процик: Intel Pentium Gold 7505 3.50GHz**
 * <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Видюха: Встроенная (Intel UHD Graphics)**
 * <img src="https://img.icons8.ru/color/48/memory-slot.png" width="18" height="18"> **Оперативка: 20 ГБ DDR4 (4 ГБ впаянной и 16 ГБ съёмной)**
 * <img src="https://img.icons8.ru/external-vectorslab-flat-vectorslab/53/external-Floppy-Disk-multimedia-vectorslab-flat-vectorslab.png" width="18" height="18"> **Диски: NVME SSD Ardor Gaming 512 GB (`Arch Linux`)**
@@ -21,7 +21,9 @@
 ---
 
 <p align="center">
-<img width="738" height="381" alt="695243509-e8bf6ad7-3502-4ef1-8864-151116b2b223-round-corners" src="https://github.com/user-attachments/assets/c2d9958b-75ce-4f25-93e6-1531b526ed49" />
+  <picture>
+    <img src="https://github.com/user-attachments/assets/c2d9958b-75ce-4f25-93e6-1531b526ed49" alt="fastfetch" />
+  </picture>
 </p>
 
 ---
