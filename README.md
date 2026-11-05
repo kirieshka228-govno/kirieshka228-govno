@@ -20,6 +20,12 @@
 
 ---
 
+<p align="center">
+<img width="738" height="381" alt="695243509-e8bf6ad7-3502-4ef1-8864-151116b2b223-round-corners" src="https://github.com/user-attachments/assets/c2d9958b-75ce-4f25-93e6-1531b526ed49" />
+</p>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirieshka228-govno/kirieshka228-govno/output/github-contribution-grid-snake.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirieshka228-govno/kirieshka228-govno/output/github-contribution-grid-snake-light.gif">
