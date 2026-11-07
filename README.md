@@ -1,4 +1,4 @@
-# Создатель говна на <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="32" height="32"> и <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" width="32" height="32">
+# Создатель говна на <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="32" height="32">
 
 
 ## Сосылки
@@ -15,7 +15,7 @@
 * <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Процик: Intel Pentium Gold 7505 3.50GHz**
 * <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" height="18"> **Видюха: Встроенная (Intel UHD Graphics)**
 * <img src="https://img.icons8.ru/color/48/memory-slot.png" width="18" height="18"> **Оперативка: 20 ГБ DDR4 (4 ГБ впаянной и 16 ГБ съёмной)**
-* <img src="https://img.icons8.ru/external-vectorslab-flat-vectorslab/53/external-Floppy-Disk-multimedia-vectorslab-flat-vectorslab.png" width="18" height="18"> **Диск: NVME SSD Ardor Gaming 512 GB (`Arch Linux`)**
+* <img src="https://img.icons8.ru/external-vectorslab-flat-vectorslab/53/external-Floppy-Disk-multimedia-vectorslab-flat-vectorslab.png" width="18" height="18"> **Диск: NVME SSD Ardor Gaming 512 GB**
 * <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width=18 height=18> **ОСь: Arch Linux (I use Arch btw)**
 
 ---
@@ -24,6 +24,10 @@
   <picture>
     <img src="https://github.com/user-attachments/assets/c2d9958b-75ce-4f25-93e6-1531b526ed49" alt="fastfetch" />
   </picture>
+</p>
+
+<p align="center">
+  кал какой то
 </p>
 
 ---
