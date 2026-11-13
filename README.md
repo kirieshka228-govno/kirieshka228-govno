@@ -7,7 +7,7 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=blue)](https://steamcommunity.com/id/K1RIESHKI228)
 
----
+
 
 ## О ноуте
 
@@ -18,17 +18,14 @@
 * <img src="https://img.icons8.ru/external-vectorslab-flat-vectorslab/53/external-Floppy-Disk-multimedia-vectorslab-flat-vectorslab.png" width="18" height="18"> **Диск: NVME SSD Ardor Gaming 512 GB**
 * <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width=18 height=18> **ОСь: Arch Linux (I use Arch btw)**
 
----
 
-<p align="center">
-  <picture>
-    <img src="https://github.com/user-attachments/assets/c2d9958b-75ce-4f25-93e6-1531b526ed49" alt="fastfetch" />
-  </picture>
-</p>
 
-<p align="center">
-  кал какой то
-</p>
+## О ОСи
+
+* <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" width="18" height="18"> **Ядро: Arch 7.2.15-arch1-1**
+* <img src="https://img.icons8.ru/?size=100&id=c6uc1osKYYzC&format=png&color=000000" width="18" height="18"> **ВМ: Hyprland**
+* <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terminal.svg" width="18" height="18"> **Терминал: Kitty 0.50.0**
+* <img src="https://img.icons8.ru/?size=100&id=31016&format=png&color=000000" width="18" height="18"> **Локаль: ru_RU.UTF-8**
 
 ---
 
